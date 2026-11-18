@@ -1,0 +1,8 @@
+**
+!app.py
+!train.py
+!smoke_test.py
+!requirements.txt
+!config.json
+!dataset/
+!dataset/train.csv
