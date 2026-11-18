@@ -1,0 +1,20 @@
+{
+  "student_id": "SP23-BAI-057",
+  "scenario": "agriculture",
+  "seed": 36034,
+  "features": [
+    "soil_deficit",
+    "heat_stress",
+    "flow_variance",
+    "pump_age"
+  ],
+  "weights": [
+    0.85,
+    0.8,
+    0.7,
+    0.95
+  ],
+  "variant": "standard",
+  "bias": -0.42,
+  "offset": 0.27
+}

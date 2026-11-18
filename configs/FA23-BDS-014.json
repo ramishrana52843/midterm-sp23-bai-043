@@ -1,0 +1,20 @@
+{
+  "student_id": "FA23-BDS-014",
+  "scenario": "fleet_risk",
+  "seed": 26293,
+  "features": [
+    "engine_load",
+    "road_delay",
+    "fuel_variance",
+    "driver_hours"
+  ],
+  "weights": [
+    0.9,
+    0.8,
+    0.65,
+    0.75
+  ],
+  "variant": "missing",
+  "bias": 0.28,
+  "offset": 0.18
+}

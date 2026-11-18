@@ -1,0 +1,20 @@
+{
+  "student_id": "FA23-BDS-037",
+  "scenario": "factory_health",
+  "seed": 29158,
+  "features": [
+    "motor_heat",
+    "vibration",
+    "wear_index",
+    "load_factor"
+  ],
+  "weights": [
+    0.8,
+    1.0,
+    0.85,
+    0.75
+  ],
+  "variant": "mixed",
+  "bias": 0.42,
+  "offset": 0.18
+}

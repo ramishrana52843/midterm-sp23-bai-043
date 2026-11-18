@@ -1,0 +1,20 @@
+{
+  "student_id": "FA23-BDS-018",
+  "scenario": "smart_energy",
+  "seed": 26866,
+  "features": [
+    "voltage_drift",
+    "thermal_load",
+    "supply_variance",
+    "demand_spike"
+  ],
+  "weights": [
+    1.0,
+    0.75,
+    0.8,
+    0.7
+  ],
+  "variant": "missing",
+  "bias": -0.28,
+  "offset": 0.0
+}

@@ -1,0 +1,20 @@
+{
+  "student_id": "FA23-BDS-057",
+  "scenario": "smart_water",
+  "seed": 32023,
+  "features": [
+    "pressure_loss",
+    "flow_change",
+    "valve_age",
+    "sensor_noise"
+  ],
+  "weights": [
+    1.0,
+    0.75,
+    0.65,
+    0.8
+  ],
+  "variant": "standard",
+  "bias": -0.42,
+  "offset": 0.18
+}
